@@ -1,0 +1,189 @@
+@media screen and (max-width: 1817px) {
+  .clientfeed-p {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  .clientfeed-btn {
+    padding: 5px 20px;
+  }
+}
+@media screen and (max-width: 1660px) {
+  .clientfeed-p {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  .clientfeed-btn {
+    padding: 5px 20px;
+  }
+  .clientWrp {
+    padding-left: 40px;
+  }
+  .back[data-v-9c26987b] {
+    width: 47% !important;
+  }
+}
+@media screen and (max-width: 1440px) {
+  .text-\[left\] {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 1336px) {
+  .back[data-v-9c26987b] {
+    top: 0;
+    height: 850px !important;
+    width: 100% !important;
+  }
+  .swiper {
+    height: 1000px !important;
+  }
+  .swiper-slide {
+    height: max-content !important;
+    display: flex;
+    align-items: flex-start;
+  }
+  .clientWrp {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: initial !important;
+    padding: 0px 20px !important;
+  }
+  .client {
+  }
+  .imgFeed {
+    padding: 0;
+    height: initial !important;
+    max-height: initial !important;
+    min-height: initial !important;
+    max-width: 80% !important;
+    height: 400px !important;
+  }
+  .clientfeed-p {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 1032px) {
+  .clientfeed-p {
+    margin-top: 20px;
+    width: 90%;
+  }
+  .swiper-pagination-fraction {
+    transform: translateY(-70px) !important;
+    left: initial !important;
+    right: 30px !important;
+    background: rgb(0, 0, 0) !important;
+    top: initial !important;
+    bottom: -60px !important;
+    color: white !important;
+  }
+  .swiper-pagination-fraction span {
+    color: white !important;
+  }
+  .pFeed {
+    font-size: 13px;
+  }
+  .imgFeed {
+    height: 200px !important;
+    max-width: initial !important;
+    width: initial !important;
+  }
+  .clientSecWrp h2 {
+    font-size: 22px;
+  }
+  .clientfeed-p {
+    padding: 0 !important;
+    width: 100% !important;
+    margin: 20px auto !important;
+  }
+  .clientfeed-p div {
+    padding: 0 !important;
+    width: 90% !important;
+    margin: auto !important;
+  }
+  .clientfeed-btn {
+    font-size: 13px;
+    display: block !important;
+    width: 100% !important;
+    margin: 0 !important;
+    margin-bottom: 10px !important;
+  }
+  div[data-v-9c26987b] .flex-wrap {
+    margin: 0 !important;
+    padding: 0 !important;
+    flex-direction: column !important;
+    margin-top: 15px !important;
+    display: none !important;
+  }
+  .client {
+    height: max-content !important;
+    min-height: initial !important;
+  }
+  .back[data-v-9c26987b] {
+    top: -30px !important;
+    z-index: -1 !important;
+    height: 724px !important;
+    width: 100% !important;
+  }
+  .textFeed[data-v-9c26987b] {
+    margin-bottom: 40px;
+    color: white !important;
+    z-index: 999 !important;
+  }
+
+  .swiper {
+    height: 724px !important;
+  }
+  .scro {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+  }
+
+  .scro {
+    width: 100%;
+    padding: 0 !important;
+    height: 60px;
+  }
+  .scro a {
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+  .scro button {
+    margin: 0 !important;
+    padding: 0 !important;
+    padding: 5px 5px !important;
+  }
+
+  .ay {
+    width: 100% !important;
+    height: initial !important;
+    transform: translateX(-10px);
+  }
+  .back22 {
+    transform: translateY(-28px);
+  }
+
+  .about {
+    min-height: 1094px !important;
+    /* margin-bottom: 150px !important; */
+    margin-bottom: 0 !important;
+  }
+
+  .about {
+    height: 363px !important;
+  }
+  .infoleft {
+    display: flex;
+    width: 100% !important;
+    height: 665px !important;
+  }
+  .aboutText {
+    font-size: 12px !important;
+  }
+  .eduBtn{
+    margin-top: 10px !important;
+  }
+}
